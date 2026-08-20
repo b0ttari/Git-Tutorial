@@ -20,8 +20,8 @@
     **Git restore -- staged** – Poistaa tiedoston commitista mutta säilyttää muutokset
     **Git revert** – Peruu aiemman commitin tekemällä uuden commitin
 
-##7.      Kuva/kaavio gitin käytöstä:
- Tässä on kuva
+## 7.      Kuva/kaavio gitin käytöstä:
+ 
 
 ## 8.      Extra: Markdown.md
  \- .md Tiedostomuotoa voi käyttää dokumentaatiossa, verkkosivuissa, sähköposteissa tai vaikkapa esitelmissä.
