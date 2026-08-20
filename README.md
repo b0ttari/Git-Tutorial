@@ -21,7 +21,6 @@
     **Git revert** – Peruu aiemman commitin tekemällä uuden commitin
 
 ## 7.   Kuva/kaavio gitin käytöstä:
- https://github.com/b0ttari/Git-Tutorial/blob/main/Git%20k%C3%A4ytt%C3%B6.png
-
+ ![Gitin käyttö](https://github.com/b0ttari/Git-Tutorial/blob/main/Git%20k%C3%A4ytt%C3%B6.png)
 ## 8.   Extra: Markdown.md
  \- .md Tiedostomuotoa voi käyttää dokumentaatiossa, verkkosivuissa, sähköposteissa tai vaikkapa esitelmissä.
